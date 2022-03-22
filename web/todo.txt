@@ -1,0 +1,9 @@
+4:12:34 Forgot Password
+4:35:31 Change Password
+5:22:14 Why Switching to TypeORM
+5:25:27 Switching to TypeORM
+5:50:44 Many to One
+6:02:26 Global Error Handling
+6:24:15 Next.js Query Params
+6:31:26 URQL Pagination Start
+https://www.youtube.com/watch?v=I6ypD7qv3Z8
